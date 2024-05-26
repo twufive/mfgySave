@@ -1,0 +1,88 @@
+Mono path[0] = 'D:/mfgy/Magicraft/Magicraft_Data/Managed'
+Mono config path = 'D:/mfgy/Magicraft/MonoBleedingEdge/etc'
+AS: AutoStreaming module initializing.
+[Physics::Module] Initialized MultithreadedJobDispatcher with {0} workers.
+Initialize engine version: 2021.3.32f1c1 (fa19b96eeab7)
+[Subsystems] Discovering subsystems at path D:/mfgy/Magicraft/Magicraft_Data/UnitySubsystems
+GfxDevice: creating device client; threaded=1; jobified=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: NVIDIA GeForce MX350 (ID=0x1c94)
+    Vendor:   NVIDIA
+    VRAM:     1979 MB
+    Driver:   30.0.15.1215
+Begin MonoManager ReloadAssembly
+- Completed reload, in  5.626 seconds
+<RI> Initializing input.
+New input system (experimental) initialized
+Using XInput
+XInput1_3.dll not found. Trying XInput9_1_0.dll instead...
+<RI> Input initialized.
+<RI> Initialized touch support.
+UnloadTime: 3.183800 ms
+======================================================================
+Game Version: 0.82.13b
+Launch Time: 2024-5-26 16:12:31
+OS: Windows 11  (10.0.22631) 64bit
+Device: Desktop
+DeviceModel: 82DN (LENOVO)
+Current Directory: D:\mfgy\Magicraft
+Domain Base Directory: D:\mfgy\Magicraft
+Files in game directory: 
+	 - D:\mfgy\Magicraft\Magicraft_BurstDebugInformation_DoNotShip\
+	 - D:\mfgy\Magicraft\Magicraft_Data\
+	 - D:\mfgy\Magicraft\MonoBleedingEdge\
+	 - D:\mfgy\Magicraft\Magicraft_Data\
+	 - D:\mfgy\Magicraft\Magicraft.exe
+	 - D:\mfgy\Magicraft\steam_appid.txt
+	 - D:\mfgy\Magicraft\UnityCrashHandler64.exe
+	 - D:\mfgy\Magicraft\UnityPlayer.dll
+	 - D:\mfgy\Magicraft\启动密码-必看.txt
+	 - D:\mfgy\Magicraft\永久防迷路.url
+	 - D:\mfgy\Magicraft\防迷路-www.laoquzhang.com.url
+MD5 Check:
+	 - \Magicraft_Data\Managed\Assembly-CSharp.dll >>> c16ff11d12cd7a0961229b9007877b08
+	 - \Magicraft_Data\Plugins\x86_64\steam_api64.dll >>> 37a7e0deae6e7bd1154f8fd059f9a241
+	 - \Magicraft.exe >>> cf45836e5ac9f2f222f1fa1e26c4a3a3
+Check time cost: 0.184
+======================================================================
+The referenced script on this Behaviour (Game Object 'EF_Elite8_HalfSelves') is missing!
+The referenced script on this Behaviour (Game Object 'EF_Monster41_Tentacle') is missing!
+摧毁Mobilemgr
+Save SettingData
+SteamID: 76561198258633062
+SteamConnected
+You must have atleast one friend to use the SteamFriends test!
+Unloading 8 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 11.115700 ms
+Releasing render texture that is set as Camera.targetTexture!
+Releasing render texture that is set as Camera.targetTexture!
+Unloading 57772 unused Assets to reduce memory usage. Loaded Objects now: 22714.
+Total: 158.775900 ms (FindLiveObjects: 6.325400 ms CreateObjectMapping: 11.699100 ms MarkObjects: 15.237300 ms  DeleteObjects: 125.513300 ms)
+
+Languegechange
+GoToMainMenue
+已经连接了Steam,不需要重新连接
+EKGFIJJONHJ
+Unloading 6 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 5.296800 ms
+Unloading 86 unused Assets to reduce memory usage. Loaded Objects now: 33909.
+Total: 15.917600 ms (FindLiveObjects: 2.127800 ms CreateObjectMapping: 1.148900 ms MarkObjects: 12.190800 ms  DeleteObjects: 0.449500 ms)
+
+enter Camp
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 61.432800 ms
+Releasing render texture that is set as Camera.targetTexture!
+Unloading 1342 unused Assets to reduce memory usage. Loaded Objects now: 28030.
+Total: 39.237300 ms (FindLiveObjects: 2.612000 ms CreateObjectMapping: 1.929600 ms MarkObjects: 18.614600 ms  DeleteObjects: 16.080500 ms)
+
+1011finish
+10084finish
+10078finish
+10011finish
+10015finish
+10017finish
+11002finish
+20125finish
+法杖的 config 为空，怎么更新显示状态？
+CFG 为空的法杖不能 ResetAndRecheck
